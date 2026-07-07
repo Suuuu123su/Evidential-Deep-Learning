@@ -1,0 +1,15 @@
+.venv/
+.idea/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/
+runs/
+*.npz
+*.pt
+*.pth
+*.jsonl
+*.log
+*.tgz
+*.tar.gz
+*.zip
